@@ -1,0 +1,5 @@
+background: 4f4f4f
+text      : 000000
+links     : 4b7a1f
+sidebar   : 9bae89
+border    : b7c4ab
