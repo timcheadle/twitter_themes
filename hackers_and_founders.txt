@@ -1,0 +1,5 @@
+background: 66615a
+text      : 333333
+links     : db7029
+sidebar   : f0ede8
+border    : f0ede8
