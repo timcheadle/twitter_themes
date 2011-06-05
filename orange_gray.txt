@@ -1,5 +1,5 @@
 background: e2e2e5
 text      : 37373f
-links     : f59949
+links     : e37e36
 sidebar   : 7b7b80
 border    : 7b7b80
